@@ -2,8 +2,8 @@
 ---
 /**:
   ros__parameters:
-    update_rate: 10
-    timeout_operation_mode_availability: 0.5
+    update_rate: 1
+    timeout_operation_mode_availability: 2.0
     timeout_call_mrm_behavior: 0.01
     timeout_cancel_mrm_behavior: 0.01
     use_emergency_holding: false
